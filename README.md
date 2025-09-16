@@ -4,14 +4,15 @@ Este é um projeto/desafio da DIO onde eu tenho que resolver uns exércicios no 
 
 ---
 
--[] Concatenando Dados
+- [x] Concatenando Dados
 
--[] Repetindo Textos
+- [x] Repetindo Textos
 
--[] Operacões Matemáticas Simples
+- [x] Operacões Matemáticas Simples
 
--[] Verificando numeros Pares e Ímpares
+- [x] Verificando numeros Pares e Ímpares
 
--[] Calculando Média de Notas
+- [x] Calculando Média de Notas
 
--[] Verificando Políndromos 
+- [x] Verificando Políndromos
+     > Confesso que esse foi o mais difícil, tive que pedir ajuda para o GPT mesmo kkk.
